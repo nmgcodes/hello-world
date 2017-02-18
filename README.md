@@ -1,3 +1,3 @@
 # hello-world
 My 1st repository
-SEEMS PRETTY SIMPLE AND STRAIGHT FORWARD SO FAR.
+Seems preety simple and easy to understand so far.
